@@ -2,20 +2,20 @@
   "private": true,
   "bundledDependencies": [
     "source-map",
-    "cookie-es",
-    "node-fetch-native",
-    "unenv",
     "buffer-from",
-    "source-map-support",
-    "hookable",
-    "destr",
-    "ohmyfetch",
     "radix3",
+    "unenv",
+    "source-map-support",
+    "node-fetch-native",
+    "ohmyfetch",
+    "destr",
+    "hookable",
     "h3",
-    "unstorage",
     "scule",
-    "ufo",
+    "unstorage",
     "ohash",
-    "pathe"
+    "pathe",
+    "ufo",
+    "cookie-es"
   ]
 }

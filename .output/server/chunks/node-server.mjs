@@ -326,19 +326,19 @@ const assets = {
   "/_nuxt/entry-e6da15fc.mjs": {
     "type": "application/javascript",
     "etag": "\"18e93-/rIkDB4rnmTD69txbThs9mNb/X4\"",
-    "mtime": "2022-05-19T02:36:27.041Z",
+    "mtime": "2022-05-19T17:29:54.833Z",
     "path": "../public/_nuxt/entry-e6da15fc.mjs"
   },
   "/_nuxt/entry.fec640a4.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"3176-8PgZRUl3HJx9yvOxTQT5FzM3CFE\"",
-    "mtime": "2022-05-19T02:36:27.042Z",
+    "mtime": "2022-05-19T17:29:54.834Z",
     "path": "../public/_nuxt/entry.fec640a4.css"
   },
   "/_nuxt/manifest.json": {
     "type": "application/json",
     "etag": "\"cb-AgbO6HrvhNpoo16bL0W41Sb3sEc\"",
-    "mtime": "2022-05-19T02:36:27.043Z",
+    "mtime": "2022-05-19T17:29:54.835Z",
     "path": "../public/_nuxt/manifest.json"
   }
 };
